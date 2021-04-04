@@ -1,14 +1,13 @@
 
 ![avator](./avator.png)&nbsp;&nbsp;[Linked In](linkedin.com/in/yang-lu-b7871817b)<br>
-> You never know unless you try.<br>
+> _You never know unless you try._<br>
 
 ``` Shell
 echo "Welcome to my page"
 ``` 
 
 **Yang Lu**  &nbsp;
-- Email: kevinlu1736@gmail.com 
-- Tel: 925-639-6447
+- Email: yal071@ucsd.edu
 - Location: San Diego 
 
 ## Skills
